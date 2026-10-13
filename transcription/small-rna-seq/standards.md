@@ -13,7 +13,7 @@ Scope: libraries from rRNA-depleted total RNA, size-selected to be shorter than 
 | Definition | Average library insert size < 200 bp | stated |
 | Replicates | 2 or more | should |
 | EN-TEx samples | May be exempt from the replicate rule | may be exempted |
-| Experimental protocol | [Experimental guidelines](../bulk-rna-seq/experimental-guidelines.md) cover small RNA-seq | stated |
+| Experimental protocol | [Experimental guidelines](../experimental-guidelines.md) cover small RNA-seq | stated |
 | Release | Passes [routine metadata audits](../../GLOSSARY.md#routine-metadata-audits) | must |
 
 ## Sequencing

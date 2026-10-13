@@ -15,7 +15,7 @@ Scope: libraries from poly(A)+, rRNA-depleted total RNA or poly(A)- RNA, size-se
 | EN-TEx samples | May be exempt from the replicate rule | may be exempted |
 | Spike-ins | [ERCC](https://www.encodeproject.org/references/ENCSR314WMD/) spike-ins in library preparation, concentrations in the metadata | should |
 | Spike-in amount | The consortium standardizes on Ambion Mix 1 at about 2% of final mapped reads | stated |
-| Experimental protocol | [Experimental guidelines](experimental-guidelines.md) | stated |
+| Experimental protocol | [Experimental guidelines](../experimental-guidelines.md) | stated |
 | Release | Passes [routine metadata audits](../../GLOSSARY.md#routine-metadata-audits) | must |
 
 ## Sequencing

@@ -13,7 +13,7 @@ Scope: TSS-mapping libraries from rRNA-depleted total RNA longer than 200 nucleo
 | Replicates | At least 2 | should |
 | Replicates for IDR | Exactly 2 | must |
 | RNA-seq control | A matching RNA-seq experiment as a control for each RAMPAGE or CAGE experiment | must (restrictions); should (standards) |
-| Experimental protocol | [Experimental guidelines](../bulk-rna-seq/experimental-guidelines.md) cover RAMPAGE and CAGE | stated |
+| Experimental protocol | [Experimental guidelines](../experimental-guidelines.md) cover RAMPAGE and CAGE | stated |
 | Release | Passes [routine metadata audits](../../GLOSSARY.md#routine-metadata-audits) | must |
 
 ## Sequencing
