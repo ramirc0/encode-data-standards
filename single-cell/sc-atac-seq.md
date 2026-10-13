@@ -1,8 +1,8 @@
-# scATAC-seq: standards
+# scATAC-seq
 
-[Root](../../README.md) / [Single cell](../README.md) / [scATAC-seq](README.md) / Standards
+[Root](../README.md) / [Single cell](README.md) / scATAC-seq
 
-Source: [scATAC-seq Data Standards and Processing Pipeline](https://www.encodeproject.org/data-standards/encode4-single-cell-atac/), no update date ([snapshot](../../sources/pages/data-standards__encode4-single-cell-atac.md)). The URL marks it as ENCODE4. The pipeline is from the Kundaje lab.
+Source: [scATAC-seq Data Standards and Processing Pipeline](https://www.encodeproject.org/data-standards/encode4-single-cell-atac/), no update date ([snapshot](../sources/pages/data-standards__encode4-single-cell-atac.md)). The URL marks it as ENCODE4. The pipeline is from the Kundaje lab.
 
 The page states no numeric thresholds. Its menu links "Pipeline processing restrictions" and "Data quality standards" to the bulk RNA-seq page.
 

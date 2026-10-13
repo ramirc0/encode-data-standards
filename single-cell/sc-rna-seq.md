@@ -1,8 +1,8 @@
-# scRNA-seq: standards
+# scRNA-seq
 
-[Root](../../README.md) / [Single cell](../README.md) / [scRNA-seq](README.md) / Standards
+[Root](../README.md) / [Single cell](README.md) / scRNA-seq
 
-Source: [scRNA-seq Data Standards and Processing Pipeline](https://www.encodeproject.org/data-standards/encode4-single-cell-rna/), no update date ([snapshot](../../sources/pages/data-standards__encode4-single-cell-rna.md)). The URL marks it as ENCODE4. The pipeline is from the Wold lab.
+Source: [scRNA-seq Data Standards and Processing Pipeline](https://www.encodeproject.org/data-standards/encode4-single-cell-rna/), no update date ([snapshot](../sources/pages/data-standards__encode4-single-cell-rna.md)). The URL marks it as ENCODE4. The pipeline is from the Wold lab.
 
 The page states no numeric thresholds. Its menu links "Pipeline processing restrictions" and "Data quality standards" to the bulk RNA-seq page.
 
