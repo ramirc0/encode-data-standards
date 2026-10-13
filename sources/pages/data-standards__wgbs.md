@@ -30,9 +30,13 @@ The WGBS pipeline was developed as a part of the [ENCODE Uniform Processing Pip
 
 View the current instance for [paired-ended data](https://www.encodeproject.org/pipelines/ENCPL985BLO/)
 
+[![](https://www.encodeproject.org/images/977751e8-dd76-43fa-a7b7-0912527e9c7a/@@download/attachment/ENCPL985BLO.png)](https://www.encodeproject.org/pipelines/ENCPL985BLO/)
+
 #### Pipeline Schematic for single-ended data
 
 View the current instance for [single-ended data](https://www.encodeproject.org/pipelines/ENCPL210QWH/)
+
+[![](https://www.encodeproject.org/images/b7dc8cc8-1659-425e-83c4-a48ba9a5dde8/@@download/attachment/ENCPL210QWH.png)](https://www.encodeproject.org/pipelines/ENCPL210QWH/)
 
 #### Inputs:
 

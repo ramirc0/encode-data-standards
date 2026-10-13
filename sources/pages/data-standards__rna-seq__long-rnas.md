@@ -32,9 +32,13 @@ The ENCODE Bulk RNA-seq pipeline can be used for both replicated and unreplicate
 
 View the current instance of this pipeline for [paired-ended data](https://www.encodeproject.org/pipelines/ENCPL002LPE/)
 
+[![](https://www.encodeproject.org/images/43361d1d-cc0c-4bdf-8a4c-bec69056e216/@@download/attachment/ENCPL002LPE.png)](https://www.encodeproject.org/pipelines/ENCPL002LPE/)
+
 #### Pipeline Schematic for single-ended data
 
 View the current instances of this pipeline for [single-ended data](https://www.encodeproject.org/pipelines/ENCPL002LSE/)
+
+[![](https://www.encodeproject.org/images/1fb831ec-af02-4db0-a9e1-ca5087bb57cc/@@download/attachment/ENCPL002LSE.png)](https://www.encodeproject.org/pipelines/ENCPL002LSE/)
 
 #### Inputs:
 

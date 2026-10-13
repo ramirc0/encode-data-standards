@@ -32,6 +32,8 @@ The ENCODE RNA-seq pipeline for small RNAs can be used for libraries generated 
 
 View the current instances of this pipeline for [single-ended](https://www.encodeproject.org/pipelines/ENCPL337CSA/) experiments
 
+[![](https://www.encodeproject.org/images/385191a7-8041-4c78-b30e-d6e1fcf1d0d0/@@download/attachment/ENCPL337CSA.png)](https://www.encodeproject.org/pipelines/ENCPL337CSA/)
+
 #### Inputs:
 
 | **File format** | **Information contained in file** | **File description** | **Notes** |

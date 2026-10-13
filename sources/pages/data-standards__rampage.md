@@ -35,6 +35,8 @@ The ENCODE-developed pipeline for RAMPAGE assays is also used for the analysis o
 
 View the current instance of [this pipeline](https://www.encodeproject.org/pipelines/ENCPL122WIM/)
 
+[![](https://www.encodeproject.org/images/efd84307-8c54-4f7f-84b5-e96d94a44802/@@download/attachment/ENCPL122WIM.png)](https://www.encodeproject.org/pipelines/ENCPL122WIM/)
+
 #### Inputs:
 
 <table>

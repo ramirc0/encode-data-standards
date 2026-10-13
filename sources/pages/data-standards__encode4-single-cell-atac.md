@@ -48,6 +48,8 @@ The downstream manual stage (not implemented or specified in this document) invo
 
 [View the current instance of this pipeline](https://www.encodeproject.org/pipelines/ENCPL952JRQ/)
 
+![](https://www.encodeproject.org/images/b9b60bd4-f555-46b8-9987-2c1071a61e7f/@@download/attachment/ENCPL952JRQ%20%281%29.png)
+
 #### Inputs:
 
 | **File format** | **Information contained in file** | **File description** | **Notes** |

@@ -30,6 +30,8 @@ The ENCODE miRNA-seq pipeline can be used for libraries generated from miRNAs, s
 
 View the current instance of [this pipeline](https://www.encodeproject.org/pipelines/ENCPL444CYA/)
 
+[![](https://www.encodeproject.org/images/d66e205f-b8c0-4fc9-987a-c02ae4f2b255/@@download/attachment/ENCPL444CYA.png)](https://www.encodeproject.org/pipelines/ENCPL444CYA/)
+
 #### Inputs:
 
 | **File format** | **Information contained in file** | **File description** | **Notes** |

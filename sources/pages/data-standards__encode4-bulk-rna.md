@@ -33,6 +33,8 @@ The ENCODE Bulk RNA-seq pipeline can be used for both replicated and unreplicate
 
 [View the current instance of this pipeline](https://www.encodeproject.org/pipelines/ENCPL862USL/)
 
+![](https://www.encodeproject.org/images/8abc2500-6859-404f-a5cd-eca851e56785/@@download/attachment/ENCPL862USL.png)
+
 #### Inputs:
 
 | **File format** | **Information contained in file** | **File description** | **Notes** |

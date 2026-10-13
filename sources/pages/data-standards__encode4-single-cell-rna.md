@@ -37,6 +37,8 @@ The different versions of the 10x technology are sufficiently similar that the d
 
 [View the current instance of this pipeline](https://www.encodeproject.org/pipelines/ENCPL257SYI/)
 
+![](https://www.encodeproject.org/images/63f2c928-ea07-4a3c-93df-c993983fb133/@@download/attachment/ENCPL257SYI.png)
+
 #### Inputs:
 
 | **File format** | **Information contained in file** | **File description** | **Notes** |

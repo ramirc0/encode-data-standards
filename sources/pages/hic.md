@@ -27,6 +27,8 @@ Hi-C data can also be used for genotyping, both to call variants (including loca
 
 The Hi-C pipeline was developed by Aiden lab. The full Hi-C pipeline code is available on [Github](https://github.com/theaidenlab/juicer).
 
+![](https://www.encodeproject.org/images/c47a66b2-fb00-4dc9-a400-9acf0197229f/@@download/attachment/hic_pipeline_final.png)
+
 #### Inputs:
 
 | **File format** | **Information contained in file** | **File description** | **Notes** |

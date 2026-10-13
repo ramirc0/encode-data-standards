@@ -23,6 +23,8 @@ The ChIA-PET pipeline (ChIA-PIPE) was developed by the Jackson lab. The full C
 
 ChIA-PIPE is a fully automated pipeline for ChIA-PET data processing, quality assessment, visualization, and analysis. ChIA-PIPE performs linker filtering, read mapping, peak calling, and loop calling and automates quality control assessment for each dataset. To enable visualization, ChIA-PIPE generates input files for two-dimensional contact map viewing with Juicebox and HiGlass and provides a new dockerized visualization tool for high-resolution, browser-based exploration of peaks and loops. To enable structural interpretation, ChIA-PIPE calls chromatin contact domains, resolves allele-specific peaks and loops, and annotates enhancer-promoter loops. ChIA-PIPE also supports the analysis of other related chromatin-mapping data types.
 
+![](https://www.encodeproject.org/images/993800db-d902-46bc-bbcc-f1e09c85d89e/@@download/attachment/chia_pet_pipeline_final.png)
+
 Inputs:
 
 | **File format** | **Information contained in file** | **File description** | **Notes** |

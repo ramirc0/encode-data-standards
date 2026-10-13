@@ -34,9 +34,13 @@ Transcription factor ChIP-seq (TF ChIP-seq) specifically looks at proteins which
 
 View the ENCODE3 [replicated TF pipeline instance](https://www.encodeproject.org/pipelines/ENCPL138KID/).
 
+[![](https://www.encodeproject.org/images/72932615-f977-48a8-81d2-ac45cf8c3f7a/@@download/attachment/ChIP_replicated_E3.png)](https://www.encodeproject.org/pipelines/ENCPL138KID/)
+
 #### Unreplicated experiments
 
 View the ENCODE3 [unreplicated TF pipeline instance](https://www.encodeproject.org/pipelines/ENCPL493SGC/).
+
+[![](https://www.encodeproject.org/images/9c7b59eb-d737-4fdd-ac5d-3c505c1189c0/@@download/attachment/ChIP_unnreplicated_E3.png)](https://www.encodeproject.org/pipelines/ENCPL493SGC/)
 
 #### Inputs:
 

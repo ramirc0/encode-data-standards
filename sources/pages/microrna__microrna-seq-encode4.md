@@ -30,6 +30,8 @@ Pipeline Schematic
 
 View the current instance of [this pipeline](https://www.encodeproject.org/pipelines/ENCPL280YDY/).
 
+![](https://www.encodeproject.org/images/90242409-bf12-4df0-be02-ed47764de024/@@download/attachment/ENCPL280YDY.png)
+
 #### Inputs:
 
 | **File format** | **Information contained in file** | **File description** | **Notes** |

@@ -28,6 +28,8 @@ Pipeline Schematic
 
 View the current instance of [this pipeline](https://www.encodeproject.org/ENCPL075LUJ/) on the ENCODE Portal.
 
+![](https://www.encodeproject.org/images/743d84a8-e444-49aa-859b-384bce005895/@@download/attachment/TSTPL699649%20%281%29.png)
+
 #### Inputs:
 
 | **File format** | **Information contained in file** | **File description** | **Notes** |

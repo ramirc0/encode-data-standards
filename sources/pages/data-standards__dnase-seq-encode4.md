@@ -28,6 +28,8 @@ The ENCODE 4 DNase-seq pipeline was developed in collaboration with the Stamatoy
 
 View the current [pipeline instance](https://www.encodeproject.org/pipelines/ENCPL848KLD/).
 
+[![](https://www.encodeproject.org/images/9d492ad1-edb4-42e6-bab3-97329e628e90/@@download/attachment/ENCPL848KLD.png)](https://www.encodeproject.org/pipelines/ENCPL848KLD/)
+
 #### Inputs:
 
 | **File format** | **Information contained in file** | **File description** | **Notes** |

@@ -32,6 +32,8 @@ The ChIP-seq transcription factor pipeline was developed as a part of the [ENC
 
 View the current [mapping pipeline instance](https://www.encodeproject.org/pipelines/ENCPL220NBH/).
 
+[![](https://www.encodeproject.org/images/d364ed22-33e4-4ec0-b748-d7d3e9977e3e/@@download/attachment/ENCPL220NBH.png)](https://www.encodeproject.org/pipelines/ENCPL220NBH/)
+
 #### Pipeline for Transcription Factor ChIP-seq
 
 Transcription factor ChIP-seq (TF ChIP-seq) specifically looks at proteins which are thought to associate with specific DNA sequences to influence the rate of transcription.
@@ -40,9 +42,13 @@ Transcription factor ChIP-seq (TF ChIP-seq) specifically looks at proteins which
 
 View the current [replicated TF pipeline instance](https://www.encodeproject.org/pipelines/ENCPL138KID/). 
 
+[![](https://www.encodeproject.org/images/d3a897a1-bf8b-4473-a64f-b06c1abaea66/@@download/attachment/ENCPL138KID.png)](https://www.encodeproject.org/pipelines/ENCPL138KID/)
+
 **Unreplicated experiments**
 
 View the current [unreplicated TF pipeline instance](https://www.encodeproject.org/pipelines/ENCPL493SGC/). 
+
+[![](https://www.encodeproject.org/images/373865c3-516b-46b4-bb6b-e37b4c569227/@@download/attachment/ENCPL493SGC.png)](https://www.encodeproject.org/pipelines/ENCPL493SGC/)
 
 #### Inputs:
 

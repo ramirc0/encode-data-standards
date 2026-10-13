@@ -32,9 +32,13 @@ The ENCODE ATAC-seq pipeline is used for quality control and statistical signal 
 
 View the current instances of the [pipeline for replicated data](https://www.encodeproject.org/pipelines/ENCPL787FUN/)
 
+[![](https://www.encodeproject.org/images/6bf1c5c2-91c5-41d1-b539-afddfec5f640/@@download/attachment/ATAC_replicated_200728.png)](https://www.encodeproject.org/pipelines/ENCPL787FUN/)
+
 #### Pipeline schematic for unreplicated data
 
 View the current instances of the [pipeline for unreplicated data](https://www.encodeproject.org/pipelines/ENCPL344QWT/)
+
+[![](https://www.encodeproject.org/images/14be5217-09c8-441a-a1d9-b442a4aab68c/@@download/attachment/ATAC_unreplicated_200728.png)](https://www.encodeproject.org/pipelines/ENCPL344QWT/)
 
 #### Inputs:
 

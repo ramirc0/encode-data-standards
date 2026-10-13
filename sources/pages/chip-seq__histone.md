@@ -36,15 +36,21 @@ The histone analysis pipeline can resolve both punctate binding and longer chrom
 
 View the current [mapping pipeline instance](https://www.encodeproject.org/pipelines/ENCPL220NBH/).
 
+[![](https://www.encodeproject.org/images/d364ed22-33e4-4ec0-b748-d7d3e9977e3e/@@download/attachment/ENCPL220NBH.png)](https://www.encodeproject.org/pipelines/ENCPL220NBH/)
+
 #### Pipeline for Histone ChIP-seq peak calling
 
 **Replicated experiments**
 
 View the current [replicated histone pipeline instance](https://www.encodeproject.org/pipelines/ENCPL272XAE/). 
 
+[![](https://www.encodeproject.org/images/6586d00e-43b0-43f4-a841-2e635c845606/@@download/attachment/ENCPL272XAE.png)](https://www.encodeproject.org/pipelines/ENCPL272XAE/)
+
 **Unreplicated experiments**
 
 View the current [unreplicated histone pipeline instance](https://www.encodeproject.org/pipelines/ENCPL841HGV/). 
+
+[![](https://www.encodeproject.org/images/81a23034-9bac-4a5d-9622-5e114d48e95a/@@download/attachment/ENCPL841HGV_directDownload.png)](https://www.encodeproject.org/pipelines/ENCPL841HGV/)
 
 #### Inputs:
 

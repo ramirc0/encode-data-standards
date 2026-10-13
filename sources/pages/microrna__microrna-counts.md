@@ -30,6 +30,8 @@ The microRNA counts pipeline was developed by Ali Mortazavi's group at UC Irvine
 
 View the current instance of [this pipeline](https://www.encodeproject.org/pipelines/ENCPL278BTI/)
 
+[![](https://www.encodeproject.org/images/e5b00d27-bc33-43ef-aef1-7f986953383f/@@download/attachment/ENCPL278BTI.png)](https://www.encodeproject.org/pipelines/ENCPL278BTI/)
+
 #### File inputs and outputs:
 
 <table>

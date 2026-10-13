@@ -26,6 +26,8 @@ The ENCODE portal not only has data from the current ENCODE project, but also da
 
 ## Antibody characterization status
 
+![](https://www.encodeproject.org/images/405dde1e-65f1-457b-91dd-5ab6b8c978da/@@download/attachment/antibody_characterization_status.png)
+
 - **compliant **: The characterization has been found to be compliant with the attached standards document.
 - **exempt from standards:** The characterization has been exempt from standards by the ENCODE Antibody Review Panel.
 - **not compliant **: The characterization has been found to be not compliant with the attached standards document.
@@ -37,6 +39,8 @@ The ENCODE portal not only has data from the current ENCODE project, but also da
 ------------------------------------------------------------------------
 
 ## Antibody Lot eligibility status
+
+![](https://www.encodeproject.org/images/187383d5-d747-4664-8e24-f69ef54127b6/@@download/attachment/antibody_lot_eligibility_status.png)
 
 ## Standards documents
 
@@ -50,11 +54,15 @@ The **[antibody search page](https://www.encodeproject.org/search/?type=Antibody
 
 Each antibody lot has a page with five sections: accession/title, eligibility, lot information, characterizations, related experiments. The header of the page includes the accession/title in grey, followed by the eligibility organized by cell type and species, followed by the lot information.
 
+![](https://www.encodeproject.org/images/56f0c995-03b6-4fb3-b4bd-290bfd837ad7/@@download/attachment/antibody_characterization_ENCAB929ZIJ_200728.jpg)
+
 Figure 3. Header section of the antibody lot page including accession, eligibility information and lot details.
 
 ------------------------------------------------------------------------
 
 The characterization section has the related characterizations organized by species. Each characterization includes the documents (images, tables, pdfs) being used as evidence along with a caption. It also indicates its status, target species and submitter information. If the characterization is considered compliant, it will also have a link to the standards document it was reviewed against.
+
+![](https://www.encodeproject.org/images/2cb7db39-964a-4779-95ff-7930c31f76a6/@@download/attachment/antibody_characterization_example_200728.jpg)
 
 Figure 4. Example characterization block found on the antibody lot page.
 

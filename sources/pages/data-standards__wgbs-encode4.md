@@ -30,6 +30,8 @@ The WGBS pipeline was developed as a part of the [ENCODE Uniform Processing Pip
 
 View the [current schematic ](https://www.encodeproject.org/pipelines/ENCPL182IUX/)
 
+[![](https://www.encodeproject.org/images/5e4c3765-3ef1-4fe5-8a98-8794da07c75b/@@download/attachment/Screen%20Shot%202021-04-19%20at%209.53.36%20AM.png)](https://www.encodeproject.org/pipelines/ENCPL182IUX/)
+
 #### Inputs:
 
 | **File format** | **Information contained in file** | **File description** | **Notes** |

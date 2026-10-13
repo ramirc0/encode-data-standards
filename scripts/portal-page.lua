@@ -53,8 +53,14 @@ function Div(el)
   return el.content
 end
 
+local function has_image(inlines)
+  local found = false
+  pandoc.Inlines(inlines):walk({ Image = function() found = true end })
+  return found
+end
+
 function Para(el)
-  if blank(el.content) then
+  if blank(el.content) and not has_image(el.content) then
     return {}
   end
 end

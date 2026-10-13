@@ -18,6 +18,8 @@ where\
 \
 The MAD score is calculated on normalized FPKM values for genes G:1..N that have X<sub>1_i</sub>, X<sub>2_i</sub> more than preset cut-off** \>1 FPKM**. 
 
+![](https://www.encodeproject.org/images/cd977949-d394-4e27-9e19-5f8e484376ab/@@download/attachment/MAD_graphs_03-29-2016.png)
+
 **Figure 1.** Distribution of the replicate log-ratio standard deviation by the sample type. The dashed red line shows mean values per each sample type; the number of the samples is indicated in the parenthesis of the legend. 
 
 ### References
