@@ -36,9 +36,10 @@ Scope: TSS-mapping libraries from rRNA-depleted total RNA longer than 200 nucleo
 | Gene-level [Spearman](../../GLOSSARY.md#spearman-correlation), isogenic replicates | > 0.9 | should |
 | Gene-level Spearman, anisogenic replicates | > 0.8 | should |
 
-The pipeline compares the two TSS quantification files, "calculating the Mean Absolute Deviation and correlations". The [MAD page](../../GLOSSARY.md#mad) defines MAD as a median-based statistic.
+The pipeline compares the two TSS quantification files, "calculating the Mean Absolute Deviation and correlations".
 
 ## Conflicts and gaps
 
 - The standards are written for RAMPAGE. The page states no separate depth or concordance values for CAGE.
+- The page calls the replicate metric "Mean Absolute Deviation". The [MAD page](../../GLOSSARY.md#mad) and Figure 5D of [Hitz et al. 2023](https://doi.org/10.1101/2023.04.04.535623) call it Median Absolute Deviation.
 - The page names no tiers. See [portal audits](portal-audits.md).

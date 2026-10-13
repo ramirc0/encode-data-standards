@@ -58,5 +58,5 @@ For "ENCODE processed IDR thresholded peaks files", both [IDR](../../../GLOSSARY
 
 - The narrow-mark sentence reads "targeting narrow marks and investigated as a transcription factor". It sets the same numbers as the TF page.
 - Broad marks have a stated minimum of 20 million but an acceptable value of > 35 million. The page names no status for 20 to 35 million.
-- The page applies an IDR criterion to "IDR thresholded peaks files", but its outputs table lists only relaxed, replicated and pseudoreplicated peaks for histone data.
+- The page applies an IDR criterion to "IDR thresholded peaks files", but its outputs table lists only relaxed, replicated and pseudoreplicated peaks for histone data. [Hitz et al. 2023](https://doi.org/10.1101/2023.04.04.535623) (p8) says "The histone ChIP pipeline does not use IDR for replicate concordance".
 - The page names no read-depth flags or audit levels for histone marks. See [portal audits](../portal-audits.md).

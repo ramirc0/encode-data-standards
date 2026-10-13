@@ -75,3 +75,4 @@ FRiP and similar metrics "are calculated without defined thresholds" and serve t
 
 - The page gives two framings of the same depth rule: "recommended > 20 million, acceptable > 10 million" and the 20 million target with named flags. Exactly 10 million and exactly 20 million each fall on two tier edges. The [portal audits](../portal-audits.md) set the operators.
 - The page names flags but not their audit levels. See [portal audits](../portal-audits.md).
+- [Hitz et al. 2023](https://doi.org/10.1101/2023.04.04.535623) (p8) lists FRiP, NSC/RSC and JSD among the key ChIP-seq QC metrics and says "Thresholds are defined for each of the key quality metrics". This page sets no FRiP threshold. Neither the page nor the portal audits set NSC, RSC or JSD cutoffs, beyond an ERROR for negative NSC or RSC.

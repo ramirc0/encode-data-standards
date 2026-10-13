@@ -35,3 +35,4 @@ Source: [Whole-Genome Bisulfite Sequencing Data Standards and gemBS-based Proces
 ## Conflicts and gaps
 
 - The page gives a 30X target but no lower tiers. The [portal audits](portal-audits.md) add low, insufficient and extremely low coverage tiers.
+- [Hitz et al. 2023](https://doi.org/10.1101/2023.04.04.535623) (p12) computes the replicate correlation on CpG sites "with greater than 10x coverage". The page says "≥10X".
