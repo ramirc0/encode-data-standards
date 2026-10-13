@@ -54,6 +54,8 @@ The standards pages do not always use the unit the terms page assigns. The bulk 
 
 ## Library complexity
 
+The "Flag color" columns below match portal audit levels: yellow is WARNING, orange is NOT_COMPLIANT and red is ERROR ([audit levels](audits/README.md#levels)).
+
 ### NRF
 
 Non-Redundant Fraction. Distinct uniquely mapping reads (after removing duplicates) divided by total reads.
@@ -247,4 +249,4 @@ Except for histone-modification antibodies, a lot must be characterized in each 
 
 ## Routine metadata audits
 
-Every standards page ends with "The experiment must pass routine metadata audits in order to be released." These are the portal audits. See [audits](audits/README.md).
+Every standards page ends with "The experiment must pass routine metadata audits in order to be released." These are the portal audits. See [audits](audits/README.md). The code behind them sometimes sets different cutoffs than the pages. Each assay's `portal-audits.md` leaf lists the differences.
