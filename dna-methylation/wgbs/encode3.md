@@ -36,4 +36,4 @@ The thresholds match the [ENCODE4 page](encode4.md). Only the pipeline and its o
 
 ## Conflicts and gaps
 
-- The page gives a 30X target but no lower tiers. The [audits page](../portal-audits.md) defines low, insufficient and extremely low coverage.
+- The page gives a 30X target but no lower tiers. The [portal audits](portal-audits.md) add low, insufficient and extremely low coverage tiers.

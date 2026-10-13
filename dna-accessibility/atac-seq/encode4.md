@@ -86,5 +86,5 @@ The page recommends replicated peaks for a low false negative rate and IDR peaks
 
 ## Conflicts and gaps
 
-- The depth sentence contradicts itself. 50 million paired-end reads is 25 million fragments, not 15 million. The [ENCODE3 page](encode3.md) reads 25 million single-end reads, 50 million paired-end reads, 25 million fragments. See the [portal audits](../portal-audits.md) for the value the portal enforces.
-- Flags and audit levels are not stated on this page. See [portal audits](../portal-audits.md).
+- The depth sentence contradicts itself. 50 million paired-end reads is 25 million fragments, not 15 million. The [ENCODE3 page](encode3.md) reads 25 million single-end reads, 50 million paired-end reads, 25 million fragments. See the [portal audits](portal-audits.md) for the value the portal enforces.
+- Flags and audit levels are not stated on this page. See [portal audits](portal-audits.md).

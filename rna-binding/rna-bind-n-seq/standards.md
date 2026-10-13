@@ -38,4 +38,4 @@ Scope: an in vitro assay. A purified recombinant RBP is incubated at several con
 ## Conflicts and gaps
 
 - "Significant signal above background" has no stated test or cutoff.
-- The page names no tiers. See [portal audits](../portal-audits.md).
+- The page names no tiers. See [portal audits](portal-audits.md).

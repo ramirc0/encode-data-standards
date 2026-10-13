@@ -66,4 +66,4 @@ ENCODE2 best practices are in [RNA Standards v1.0 (May 2011)](../encode2.md).
 ## Conflicts and gaps
 
 - The insert size rule reads "average library insert size is 200 base pairs" in the standards and "greater than 200 bases" in the overview.
-- The page names no read-depth or concordance tiers. See [portal audits](../portal-audits.md).
+- The page names no read-depth or concordance tiers. See [portal audits](portal-audits.md).

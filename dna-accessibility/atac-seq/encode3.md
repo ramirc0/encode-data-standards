@@ -87,4 +87,4 @@ The experiment passes if both the [IDR](../../GLOSSARY.md#idr) rescue ratio and 
 
 ## Conflicts and gaps
 
-- Flags and audit levels are not stated on this page. See [portal audits](../portal-audits.md).
+- Flags and audit levels are not stated on this page. See [portal audits](portal-audits.md).

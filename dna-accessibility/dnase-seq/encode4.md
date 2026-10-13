@@ -78,4 +78,4 @@ The table footnote: "SPOT scores of 0.25 - 0.3 are minimally acceptable in certa
 
 - The status table skips SPOT 0.25 to 0.3. Only the footnote covers it.
 - The concordance rule says "the gene level quantification". DNase-seq produces no gene quantification. The sentence matches the RNA-seq pages.
-- Flags and audit levels are not stated on this page. See [portal audits](../portal-audits.md).
+- Flags and audit levels are not stated on this page. See [portal audits](portal-audits.md).

@@ -36,4 +36,4 @@ Scope: microRNA libraries size-selected from total RNA to 30 bp or smaller.
 ## Conflicts and gaps
 
 - ENCODE4 switched the concordance metric from Pearson to Spearman and the depth unit from aligned reads to reads mapped to the miRNA subset. See the [assay index](README.md).
-- The page names no tiers. See [portal audits](../portal-audits.md).
+- The page names no tiers. See [portal audits](portal-audits.md).

@@ -41,4 +41,4 @@ The pipeline compares the two TSS quantification files, "calculating the Mean Ab
 ## Conflicts and gaps
 
 - The standards are written for RAMPAGE. The page states no separate depth or concordance values for CAGE.
-- The page names no tiers. See [portal audits](../portal-audits.md).
+- The page names no tiers. See [portal audits](portal-audits.md).

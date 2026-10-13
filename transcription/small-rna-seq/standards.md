@@ -39,4 +39,4 @@ Scope: libraries from rRNA-depleted total RNA, size-selected to be shorter than 
 ## Conflicts and gaps
 
 - Run type and strandedness disagree across the page. The overview says data "may be paired-ended and stranded or single-ended and unstranded". The inputs table says "Single-ended, stranded". The restrictions say "Sequencing should be single-ended."
-- The page names no tiers. See [portal audits](../portal-audits.md).
+- The page names no tiers. See [portal audits](portal-audits.md).

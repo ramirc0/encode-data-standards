@@ -40,4 +40,4 @@ Non-typical binding, per the page: binding to rRNA, snRNAs, other repetitive ele
 
 ## Conflicts and gaps
 
-- The page names no tiers. See [portal audits](../portal-audits.md).
+- The page names no tiers. See [portal audits](portal-audits.md).

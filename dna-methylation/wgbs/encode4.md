@@ -34,4 +34,4 @@ Source: [Whole-Genome Bisulfite Sequencing Data Standards and gemBS-based Proces
 
 ## Conflicts and gaps
 
-- The page gives a 30X target but no lower tiers. The [audits page](../portal-audits.md) defines low, insufficient and extremely low coverage.
+- The page gives a 30X target but no lower tiers. The [portal audits](portal-audits.md) add low, insufficient and extremely low coverage tiers.

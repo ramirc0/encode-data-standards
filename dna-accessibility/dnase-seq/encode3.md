@@ -69,4 +69,4 @@ The table footnote: "SPOT scores of 0.25 - 0.3 are minimally acceptable in certa
 ## Conflicts and gaps
 
 - The same gaps as ENCODE4: SPOT 0.25 to 0.3 appears only in a footnote, and the concordance rule names "gene level quantification".
-- Flags and audit levels are not stated on this page. See [portal audits](../portal-audits.md).
+- Flags and audit levels are not stated on this page. See [portal audits](portal-audits.md).
