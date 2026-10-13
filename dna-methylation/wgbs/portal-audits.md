@@ -40,7 +40,7 @@ The call passes a human threshold of 130 that the function never reads.
 ## Differences from the published standards
 
 - Coverage: the [pages](encode4.md) set only a 30X target. The audits page and the code add 25X and 5X tiers.
-- Conversion: the gemBS rule matches the page's ≥ 98%. The Bismark rule flags more than 1% lambda methylation, which is a 99% conversion cutoff. The gemBS detail text says "should be > 99%".
-- Coverage formula: the [terms page](../../GLOSSARY.md#read-depth-units) divides by 3e+09 and counts uniquely mapped reads. The Bismark code divides by 3.3e9 (GRCh38) or 2.8e9 (mm10) and uses flagstat `mapped`.
+- Conversion: the gemBS rule matches the page's ≥ 98%. The Bismark rule flags more than 1% lambda methylation, which amounts to a 99% conversion cutoff (derived). The gemBS detail text says "should be > 99%".
+- Coverage formula: the [terms page](../../GLOSSARY.md#read-depth-units) divides by 3e+09 and counts uniquely mapped reads. The Bismark code divides by `3300000000.0` (GRCh38) or `2800000000.0` (mm10) and uses flagstat `mapped`.
 - Scope: the audits page describes the coverage tiers for the paired-end pipeline only. The code applies them to the single-end pipeline and gemBS too.
 - EN-TEx: the pages allow an EN-TEx exemption. The code has none.
