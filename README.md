@@ -62,6 +62,6 @@ The sources disagree in places that change whether data pass.
 
 ## Freshness
 
-- Portal pages were snapshotted on 2026-10-12. `scripts/snapshot-pages.sh` rebuilds [sources/pages](sources/pages/). Run it, then `git diff sources/` to see what ENCODE changed.
+- Portal pages were snapshotted on 2026-10-12, and the glossary on 2026-10-22. `scripts/snapshot-pages.sh` rebuilds [sources/pages](sources/pages/). Run it, then `git diff sources/` to see what ENCODE changed.
 - PDFs are cited by portal URL and page.
 - Audit cutoffs come from [ENCODE-DCC/encoded](https://github.com/ENCODE-DCC/encoded) at commit `9bd8ff1` (2026-10-06).

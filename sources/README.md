@@ -8,6 +8,8 @@ Everything consulted to build this reference.
 
 [pages/](pages/) holds Markdown snapshots of the 39 pages in [pages.txt](pages.txt), fetched 2026-10-12. [`scripts/snapshot-pages.sh`](../scripts/snapshot-pages.sh) rebuilds them from each page's portal JSON (`?format=json`, layout blocks) with pandoc and the [`portal-page.lua`](../scripts/portal-page.lua) filter. Rerun it, then `git diff sources/` to see what ENCODE changed.
 
+The [Glossary](https://www.encodeproject.org/glossary/) page has no layout blocks. The portal renders it from [`glossary.json`](https://www.encodeproject.org/static/components/glossary/glossary.json), which the script turns into [pages/glossary.md](pages/glossary.md), fetched 2026-10-22. The file is identical at encoded commit `9bd8ff1` and was last changed there on 2021-05-19.
+
 The snapshots skip readability extractors on purpose. Defuddle dropped each page's first block (the assay overview and "Updated" date) and some link lists, such as eight documents on the experiment guidelines page.
 
 Pages checked but not snapshotted:

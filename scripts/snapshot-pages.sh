@@ -26,3 +26,22 @@ while read -r path; do
 	} >"$out/$slug.md"
 	echo "$slug"
 done <"$root/sources/pages.txt"
+
+# /glossary/ returns no layout blocks. The portal renders it from this static file.
+glossary="$portal/static/components/glossary/glossary.json"
+{
+	printf '# Glossary\n\n'
+	printf '> Snapshot of <%s/glossary/>, rendered from <%s>, fetched %s. Regenerate with scripts/snapshot-pages.sh; do not edit.\n' \
+		"$portal" "$glossary" "$today"
+	curl -fsSL "$glossary" | jq -r '
+		map(.section //= "General terms") as $all
+		| reduce $all[].section as $s ([]; if index([$s]) then . else . + [$s] end)
+		| .[] as $s
+		| "\n## \($s)",
+			($all | map(select(.section == $s)) | sort_by(.term | ascii_downcase) | .[]
+			| "\n### \(.term)\n\n\(.definition)",
+				(.file_formats // empty | "\nFile formats: \(.)"),
+				(.additional_information // empty
+					| "\nAdditional information: \(map("[\(.title)](\(.url))") | join(", "))"))'
+} >"$out/glossary.md"
+echo glossary
