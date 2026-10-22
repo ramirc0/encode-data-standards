@@ -146,13 +146,25 @@ Peaks from pooled replicates that are observed in both replicates or in both pse
 
 Relaxed peaks that overlap at least 50% with peaks from both pseudoreplicates. Used for unreplicated histone ChIP-seq and ATAC-seq.
 
+The portal [glossary](sources/pages/glossary.md#file-output-types) gives no overlap rule for replicated or pseudoreplicated peaks. It defines replicated peaks as regions "observed in both replicates" and does not mention pseudoreplicates. It defines pseudoreplicated peaks as peak calls "from two partitions".
+
 ### Conservative and optimal IDR peaks
 
 IDR run on two true replicates gives the conservative set. IDR run on two pseudoreplicates of pooled data gives the optimal set. The optimal set is more sensitive when one replicate is weaker.
 
+The glossary describes the optimal set as "the largest set of reproducible peak calls that pass an IDR threshold analyzing replicates". It does not mention pooled pseudoreplicates.
+
 ### IDR thresholded peaks
 
-Peaks from IDR analysis of biological replicates, thresholded at an IDR cutoff of 0.05 ([TF ChIP-seq ENCODE4 outputs](sources/pages/chip-seq__transcription-factor-encode4.md)).
+Peaks from IDR analysis of biological replicates, thresholded at an IDR cutoff of 0.05 ([TF ChIP-seq ENCODE4 outputs](sources/pages/chip-seq__transcription-factor-encode4.md)). The glossary gives no cutoff.
+
+### IDR ranked peaks
+
+"The set of peak calls ranked by IDR score" ([glossary](sources/pages/glossary.md#idr-ranked-peaks)).
+
+### Pseudoreplicated IDR thresholded peaks
+
+Peaks from two pseudoreplicates that "cross the same IDR threshold as for replicated experiments" ([glossary](sources/pages/glossary.md#pseudoreplicated-idr-thresholded-peaks)).
 
 ## Replicate concordance
 
@@ -222,6 +234,15 @@ ENCODE labels each ChIP-seq or CLIP target from the GO annotations of its gene (
 | histone | GO:0000788 nuclear nucleosome |
 | TF (fallback) | GO:0003677 DNA binding; GO:0003682 chromatin binding; GO:0043167 ion binding |
 
+The categorization page defers to the [glossary](sources/pages/glossary.md#target-categories) for definitions. The glossary spells out RBP as "RNA binding protein", RNAP as "RNA polymerase complex" and TF as "transcription factor". It defines four categories that have no GO terms on the categorization page:
+
+| Category | Glossary definition |
+|---|---|
+| control | Non-specific targets or mock targets which serve as a placeholder for experiments that are used as controls. |
+| other context | Protein with a unique function that does not belong to any other category. |
+| recombinant protein | Genetically modified proteins. One common type of modification is epitope tagging. |
+| tag | Short peptides that can be fused to proteins of interests and serve as antigens for antibodies. |
+
 ### Broad and narrow histone marks
 
 The histone ChIP-seq pages assign read-depth standards by mark class.
@@ -231,6 +252,25 @@ The histone ChIP-seq pages assign read-depth standards by mark class.
 | Broad | H3F3A, H3K27me3, H3K36me3, H3K4me1, H3K79me2, H3K79me3, H3K9me1, H3K9me2, H4K20me1 |
 | Narrow | H2AFZ, H3ac, H3K27ac, H3K4me2, H3K4me3, H3K9ac |
 | Exception | H3K9me3 |
+
+The glossary lists the same broad and narrow marks as target categories. It describes broad marks as "frequently detected across relatively long continuous stretches of DNA" and narrow marks across "relatively short" ones. It does not mention H3K9me3.
+
+## Candidate cis-regulatory elements
+
+The glossary defines cCRE subtypes by their signal signature and their distance to an annotated GENCODE TSS ([cCRE subtypes](sources/pages/glossary.md#candidate-cis-regulatory-element-ccre-subtypes)). Elements are classified "by integrative analysis of biochemical signatures such as histone modifications".
+
+| Subtype | High signal | Low signal | TSS distance |
+|---|---|---|---|
+| promoter-like (PLS) | DNase, H3K4me3 | Not stated | within 200 bp |
+| proximal enhancer-like (pELS) | DNase, H3K27ac | Not stated | within 2 kb |
+| distal enhancer-like (dELS) | DNase, H3K27ac | Not stated | outside 2 kb |
+| DNase-H3K4me3 | DNase, H3K4me3 | H3K27ac | outside 200 bp |
+| CTCF-only | DNase, CTCF | H3K4me3, H3K27ac | Not stated |
+
+A representative DNase hypersensitivity site (rDHS) comes from DHSs pooled across many DNase-seq datasets for one organism. They are "iteratively clustered and filtered to select a list of non-overlapping representative sites".
+
+- The glossary does not define "high" or "low" signal.
+- An element within 200 bp of a TSS with high H3K4me3 and high H3K27ac fits both PLS and pELS. The glossary states no precedence.
 
 ## Antibody characterization status
 
